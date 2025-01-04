@@ -1,4 +1,4 @@
-/* # Lecture 1
+# Lecture 1
 
 # React 18 new features
 
@@ -72,4 +72,3 @@
     - React → facebook community, angular → google
 - What is React?
 - React vs Angular?
-*/
